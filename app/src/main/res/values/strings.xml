@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SnapCameraToGallery</string>
+    <string name="gallery">Launch Gallery test</string>
+    <string name="snap_warning">This module only supports snap camera</string>
+    <string name="xposed_warning">This module can\'t work without Xposed</string>
+    <string name="module_not_enabled">Module not enabled</string>
+    <string name="hide_app_icon">Hide app icon</string>
+</resources>
